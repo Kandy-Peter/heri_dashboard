@@ -1,17 +1,3 @@
-# [Horizon UI TailwindCSS React Typescript ⚡️](https://horizon-ui.com/horizon-tailwind-react-ts) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Horizon%20UI,%20the%20trendiest%20open-source%20admin%20template%20for%20%23tailwindcss%20and%20%23react!%0A%0Ahorizon-ui.com%20)
-
-
-Get started and build your dream web app with Horizon UI, the trendiest & innovative Open Source Admin Template for Tailwind CSS & React!
-
----
-
-### Introduction
-
-Designed for those who like modern UI elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Horizon UI is ready to help you create stunning websites and webapps.
-
-
-With Horizon UI you will find many examples for pages like NFTs Pages,
-Authentication Pages, Profile and so on. Just choose between a Basic Design or a cover and you are good to go!
 
 ### 🎉 [NEW] Horizon UI Components
 All the main components from both versions, this will help you to see and interact with all & the latest added components of Horizon (also, new components are on the way, stay tuned)! ⚡️
