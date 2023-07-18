@@ -34,7 +34,7 @@ const reasons = [
 
 const WhyHeriSection = () => {
   return (
-    <div className="flex flex-col items-center justify-center w-full h-full py-4 pb-4 lg:py-20 section-6">
+    <div className="flex flex-col items-center justify-center w-full h-full py-4 pb-4 lg:py-20 section-6 border-none">
       <div className="flex flex-col items-center justify-center p-4 lg:justify-between lg:px-60">
         <div className="flex flex-col items-center justify-center w-full">
           <h2 className="text-3xl font-bold text-center text-cyan-900 lg:max-w-[48%]">
