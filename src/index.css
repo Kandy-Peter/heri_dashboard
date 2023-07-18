@@ -59,8 +59,8 @@ input:checked.defaultCheckbox::before {
 }
 
 .section-6 {
-	background-image: url(../src/assets/img/home/background2.png);
-	background-size: cover;
-	background-position: center;
+	background-image: url(../src/assets/svg/wave.bg.svg);
+	background-size: contain;
+	background-position: bottom;
 	background-repeat: no-repeat;
 }
